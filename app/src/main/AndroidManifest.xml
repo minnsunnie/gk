@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- ĐẶT Ở ĐÂY: Nằm ngoài <application> và nằm trong <manifest> -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
